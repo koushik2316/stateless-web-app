@@ -6,8 +6,8 @@ This repository contains Kubernetes manifests for deploying a statless web appli
 
 1. **Clone this repository:**
     ```bash
-    git clone 
-    cd 
+    git clone https://github.com/koushik2316/stateless-web-app
+    cd stateless-web-app
 2. **Apply the Kubernetes manifests:**
     ```bash
     kubectl apply -f kubernetes-manifests/configmap.yaml
